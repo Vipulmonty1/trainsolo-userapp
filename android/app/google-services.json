@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390899887504",
+    "project_id": "trainsolo-soccer",
+    "storage_bucket": "trainsolo-soccer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390899887504:android:340dd42b627291767b5715",
+        "android_client_info": {
+          "package_name": "com.trainsolo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390899887504-be9p7pq7n80pclnqc12aqiecjn1htqqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgkFfKHPk0g07Bjmsft4RIlHdK6AA8Jqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390899887504-be9p7pq7n80pclnqc12aqiecjn1htqqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
